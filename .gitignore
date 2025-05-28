@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Certificate logs
+certificates-log.txt
+
+# Service account key (never commit this)
+vital-octagon-461115-p2-a6337f4584a9.json
+
+# Demo models or test scripts
+models/demo.js
+
+# Optional: lock file (only ignore if you're not using it to pin dependencies)
+package-lock.json
