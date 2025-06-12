@@ -1,4 +1,7 @@
-# 🎓 Internship Backend Services
+![Screenshot 2025-06-12 133005](https://github.com/user-attachments/assets/c6a4736f-3ba6-4be1-b158-4746bf1cf7f1)
+
+# 🎓 Internship Backend 
+rvices
 
 This repository contains backend services developed for handling **internship applications** and **certificate verification**, implemented as part of internship tasks. The project is built using **Node.js**, **Express**, **MongoDB**, and **Google Sheets API**.
 
